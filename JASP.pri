@@ -47,7 +47,8 @@ exists(/app/lib/*) {
 } else {
   linux:	CONFIG(debug, debug|release)  {  DEFINES += JASP_DEBUG }
 }
-macx | windows { CONFIG(debug, debug|release) {  DEFINES += JASP_DEBUG } }
+#macx | windows { CONFIG(debug, debug|release) {  DEFINES += JASP_DEBUG } }
+DEFINES += JASP_DEBUG
 
 windows {
 	message(QT_ARCH $$QT_ARCH)
