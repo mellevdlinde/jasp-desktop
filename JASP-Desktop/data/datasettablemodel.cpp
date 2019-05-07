@@ -22,7 +22,7 @@
 #include <fstream>
 
 #include <QSize>
-#include <QDebug>
+
 #include <QQmlEngine>
 
 #include "utilities/qutils.h"

@@ -23,7 +23,7 @@
 
 #include "../analysis/analysisform.h"
 #include <QSize>
-#include <QDebug>
+
 
 #include "utilities/qutils.h"
 

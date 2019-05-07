@@ -14,7 +14,7 @@ void _printAllTimers();
 #define JASPTIMER_START(  TIMERNAME ) _getTimer( #TIMERNAME )->start()
 #define JASPTIMER_RESUME( TIMERNAME ) _getTimer( #TIMERNAME )->resume()
 #define JASPTIMER_STOP(   TIMERNAME ) _getTimer( #TIMERNAME )->stop()
-#define JASPTIMER_PRINT(  TIMERNAME ) std::cout << #TIMERNAME << " ran for " << _getTimer( #TIMERNAME )->format() << std::endl
+#define JASPTIMER_PRINT(  TIMERNAME ) Log::log() << #TIMERNAME << " ran for " << _getTimer( #TIMERNAME )->format() << std::endl
 #define JASPTIMER_FINISH( TIMERNAME ) JASPTIMER_STOP(TIMERNAME); JASPTIMER_PRINT(TIMERNAME)
 #define JASPTIMER_PRINTALL() _printAllTimers()
 
