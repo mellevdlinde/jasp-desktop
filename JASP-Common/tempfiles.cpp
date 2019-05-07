@@ -24,7 +24,7 @@
 
 #include "base64.h"
 #include "utils.h"
-#include <iostream>
+
 #include "dirs.h"
 #include "log.h"
 using namespace std;

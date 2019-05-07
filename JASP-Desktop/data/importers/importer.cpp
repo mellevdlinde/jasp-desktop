@@ -1,6 +1,6 @@
 #include "importer.h"
 #include "sharedmemory.h"
-#include <iostream>
+
 #include "utilities/settings.h"
 #include "log.h"
 

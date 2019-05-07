@@ -21,7 +21,7 @@
 #include <QFileInfo>
 #include <QStandardPaths>
 #include <QDir>
-#include <iostream>
+
 #include "utilities/settings.h"
 #include "log.h"
 

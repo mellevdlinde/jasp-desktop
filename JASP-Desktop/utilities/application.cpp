@@ -20,7 +20,7 @@
 
 #include <QFileOpenEvent>
 #include <QString>
-#include <iostream>
+
 #include "log.h"
 #include "settings.h"
 

@@ -6,7 +6,7 @@
 #include <io.h>
 #endif
 
-#include <iostream>
+
 #include "boost/iostreams/stream.hpp"
 #include "boost/iostreams/device/null.hpp"
 #include "boost/nowide/fstream.hpp"

@@ -18,7 +18,7 @@
 
 #include "listmodelmultinomialchi2test.h"
 
-#include <iostream>
+
 #include <fstream>
 
 #include "../analysis/analysisform.h"

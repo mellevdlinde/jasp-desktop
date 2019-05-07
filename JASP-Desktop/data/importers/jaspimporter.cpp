@@ -34,7 +34,7 @@
 #include "filereader.h"
 #include "tempfiles.h"
 #include "../exporters/jaspexporter.h"
-#include <iostream>
+
 #include "resultstesting/compareresults.h"
 #include "log.h"
 

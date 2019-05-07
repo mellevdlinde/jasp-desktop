@@ -21,7 +21,7 @@
 
 #include <QNetworkRequest>
 #include <QNetworkReply>
-#include <iostream>
+
 
 
 OnlineDataConnection::OnlineDataConnection(QNetworkAccessManager *manager, QObject *parent):

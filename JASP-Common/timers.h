@@ -6,7 +6,7 @@
 #include <boost/timer/timer.hpp>
 #include <string>
 #include <map>
-#include <iostream>
+
 
 boost::timer::cpu_timer * _getTimer(std::string timerName);
 void _printAllTimers();

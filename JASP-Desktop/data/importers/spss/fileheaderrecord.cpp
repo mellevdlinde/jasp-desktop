@@ -23,7 +23,7 @@
 #include "spssimportdataset.h"
 
 #include <assert.h>
-#include <iostream>
+#include "log.h"
 
 using namespace std;
 using namespace boost;

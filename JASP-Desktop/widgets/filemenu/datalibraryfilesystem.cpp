@@ -24,7 +24,7 @@
 #include <QJsonParseError>
 #include <QJsonArray>
 #include <QJsonObject>
-#include <iostream>
+
 #include "utilities/appdirs.h"
 #include "utilities/qutils.h"
 #include "log.h"

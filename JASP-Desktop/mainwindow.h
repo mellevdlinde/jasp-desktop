@@ -19,7 +19,7 @@
 #ifndef MAINWIDGET_H
 #define MAINWIDGET_H
 
-#include <iostream>
+
 
 #include <QSettings>
 #include <QApplication>

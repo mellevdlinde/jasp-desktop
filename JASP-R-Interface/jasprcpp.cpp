@@ -17,7 +17,7 @@
 
 #include "jasprcpp.h"
 #include "jaspResults/src/jaspResults.h"
-#include <iostream>
+
 
 
 static const	std::string NullString = "null";

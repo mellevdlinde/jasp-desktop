@@ -18,7 +18,7 @@
 
 #include "asyncloader.h"
 
-#include <iostream>
+
 #include <fstream>
 #include <QTimer>
 #include <QFileInfo>

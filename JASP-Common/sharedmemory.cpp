@@ -21,7 +21,7 @@
 #include "tempfiles.h"
 
 #include <sstream>
-#include <iostream>
+
 #include "log.h"
 
 using namespace std;
